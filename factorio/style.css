@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
+
+a {
+  color: lightblue;
+}
+
+img {
+  margin-top: 1rem;
+}
+
+h2 {
+  margin-top: 3rem;
+}
+
+div {
+  margin-top: 1rem;
+}
